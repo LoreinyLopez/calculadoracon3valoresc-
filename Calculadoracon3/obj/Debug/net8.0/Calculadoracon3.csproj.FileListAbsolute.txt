@@ -1,0 +1,14 @@
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\bin\Debug\net8.0\Calculadoracon3.exe
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\bin\Debug\net8.0\Calculadoracon3.deps.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\bin\Debug\net8.0\Calculadoracon3.runtimeconfig.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\bin\Debug\net8.0\Calculadoracon3.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\bin\Debug\net8.0\Calculadoracon3.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\obj\Debug\net8.0\Calculadoracon3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\obj\Debug\net8.0\Calculadoracon3.AssemblyInfoInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\obj\Debug\net8.0\Calculadoracon3.AssemblyInfo.cs
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\obj\Debug\net8.0\Calculadoracon3.csproj.CoreCompileInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\obj\Debug\net8.0\Calculadoracon3.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\obj\Debug\net8.0\refint\Calculadoracon3.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\obj\Debug\net8.0\Calculadoracon3.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\obj\Debug\net8.0\Calculadoracon3.genruntimeconfig.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadoracon3\obj\Debug\net8.0\ref\Calculadoracon3.dll
